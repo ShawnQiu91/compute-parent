@@ -13,6 +13,8 @@
 
 	<modules>
 		<module>../springcloud-eureka-server</module>
+		<module>../springcloud-zuul</module>
+		<module>../zipkin-server</module>
 		<module>../compute-config-center</module>
 		<module>../compute-server</module>
 		<module>../compute-service1</module>
